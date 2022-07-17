@@ -1,0 +1,19 @@
+.navbar-brand {
+    color: #7777c5 !important;
+    font-family: cursive;
+}
+.navbar-nav{
+    padding-left: 10rem !important;
+}
+.nav-link{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.dropdown-menu{
+    font-size: 1.5rem !important;
+    width: 200px;
+    height: 200px;
+}
+.navbar-expand .navbar-nav .nav-link {
+    padding-right: 4.5rem !important;
+}
